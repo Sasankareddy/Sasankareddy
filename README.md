@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I’m Sasankareddy
 
-<!--
-**Sasankareddy/Sasankareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Data Scientist | AI/ML Enthusiast | 2025 graduate 
 
-Here are some ideas to get you started:
+- 🧠 I’m passionate about building real-world AI & ML solutions
+- 📚 Currently exploring Deep Learning, Recommender Systems & Data Visualization
+- 💼 Actively working on projects in Face Recognition, Insurance Prediction & Trade Analytics
+- 📫 Reach me on www.linkedin.com/in/sasankareddy-kethireddy-ba17ba246
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+`Python` `Scikit-learn` `Pandas` `TensorFlow` `Streamlit` `SQL` `Matplotlib` `OpenCV` `Git` `PCA` `ANN`
+
+## 🚀 Featured Projects
+
+| Project | Description | Tools |
+| [Face Recognition using PCA & ANN](https://github.com/Sasankareddy/face-recognition-pca-ann) | Recognize faces using Principal Component Analysis and Artificial Neural Networks | Python, PCA, ANN |
+| [Medical Insurance Cost Prediction](https://github.com/Sasankareddy/insurance-cost-ml) | Predict insurance costs based on health & lifestyle data | Scikit-learn, Regression |
+| [India Export-Import Analysis (1997–2022)](https://github.com/Sasankareddy/india-trade-analysis) | Data analytics dashboard showing trade growth trends | Pandas, Plotly |
+| [Green Destinations](https://github.com/Sasankareddy/green-destinations) | Sustainability project for promoting eco-tourism | Python, Research |
+| [AI Recommendation System for Course Selection](https://github.com/Sasankareddy/ai-course-recommender) | Suggests courses based on goals & learning style | Machine Learning, NLP |
+| [Deepfake Detection (Images & Videos)](https://github.com/Sasankareddy/deepfake-detection) | Detect manipulated media using deep learning | CNN, OpenCV, PyTorch |
+---
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sasankareddy&show_icons=true&theme=radical)
+
+---
+
+> “Data is the new oil, but actionable insights are the fuel.”
